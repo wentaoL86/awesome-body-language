@@ -9,17 +9,17 @@
   <p align="center">
     arXiv, 2023
     <br />
-    <a href="https://lxtgh.github.io/"><strong>Li Liu</strong></a>
+    <a href="/"><strong>Li Liu</strong></a>
     ·
-    <a href="https://henghuiding.github.io/"><strong>Lufei Gao</strong></a>
+    <a href="/"><strong>Lufei Gao</strong></a>
     ·
-    <a href="http://zhangwenwei.cn/"><strong>Wentao Lei</strong></a>
+    <a href="/"><strong>Wentao Lei</strong></a>
     ·
-    <a href="https://yuanhaobo.me/"><strong>Fengji Ma</strong></a>
+    <a href="/"><strong>Fengji Ma</strong></a>
     ·
-    <a href="https://sites.google.com/view/guangliangcheng"><strong>Fengji Ma</strong></a>
+    <a href="/"><strong>Fengji Ma</strong></a>
     <br />
-    <a href="https://oceanpang.github.io/"><strong>Jinting Wang</strong></a>
+    <a href="/"><strong>Jinting Wang</strong></a>
   </p>
 
   <p align="center">
