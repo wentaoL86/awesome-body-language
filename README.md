@@ -63,24 +63,18 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 ## Summary of Contents
 
 - [Methods: A Survey](#Paper-List)
- - [Recognition](#Recognition)
-  - [Cued Speech Recognition](#Cued-Speech-Recognition)
-  - [Co-speech Recognition](#Co-speech-Recognition)
-  - [Sign Language Recognition](#Sign-Language-Recognition)
-  - [Talking Head Recognition](#Talking-Head-Recognition)
- - [Generation](#Generation)
-  - [Cued Speech Generation](#Cued-Speech-Generation)
-  - [Co-speech Generation](#Co-speech-Generation)
-  - [Sign Language Generation](#Co-Language-Generation)
-  - [Talking Head Generation](#Talking Head Generation)
+  - [Recognition](#Recognition)
+    - [Cued Speech Recognition](#Cued-Speech-Recognition)
+    - [Co-speech Recognition](#Co-speech-Recognition)
+    - [Sign Language Recognition](#Sign-Language-Recognition)
+    - [Talking Head Recognition](#Talking-Head-Recognition)
+  - [Generation](#Generation)
+    - [Cued Speech Generation](#Cued-Speech-Generation)
+    - [Co-speech Generation](#Co-speech-Generation)
+    - [Sign Language Generation](#Co-Language-Generation)
+    - [Talking Head Generation](#Talking-Head-Generation)
 
 [//]: # (  )
-
-- [Related Domains and Beyond](#Related-Domains-and-Beyond)
-    - [Cued Speech Generation](#Point-Cloud-Segmentation)
-    - [Co-speech Generation](#Tuning-Foundation-Models)
-    - [Co-speech Generation](#Domain-aware-Segmentation)
-    - [Talking Head Generation](#Label-and-Model-Efficient-Segmentation)
 
 ## Paper List
 
