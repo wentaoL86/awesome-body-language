@@ -39,8 +39,8 @@ We will add the missing papers to this repo ASAP.
 
 
 ### 🔥News
-[-2023.8.19] The second draft is on arxiv. 
-[-2023.8.7] The first draft is on arxiv. 
+[-] 2023.8.19The second draft is on arxiv. 
+[-] 2023.8.7The first draft is on arxiv. 
 
 ### 🔥Highlight!!
 
