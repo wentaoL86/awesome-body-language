@@ -54,7 +54,7 @@ We will add the missing papers to this repo ASAP.
 
 ## Introduction
 
-In this survey, we present the first detailed survey on Transformer-Based Segmentation.
+In this survey, we present the first detailed survey on Multi-modal Body Language research.
 
 ![Alt Text](Outline-paper.png)
 
