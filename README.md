@@ -32,7 +32,7 @@
   </p>
 <br />
 
-This repo is used for recording, tracking, and benchmarking some Multi-modal Body Language researchs,
+This repo is used for recording and tracking some Multi-modal Body Language researchs,
 as a supplement to our [survey](link).  
 If you find any work missing or have any suggestions (papers, implementations and other resources), please don't hesitate to open an issue or pull request.
 We will add the missing papers to this repo ASAP.
