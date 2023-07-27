@@ -60,13 +60,13 @@ In this survey, we present the first detailed survey on Transformer-Based Segmen
 
 ## Summary of Contents
 
-- [Methods: A Survey](#methods-a-survey)
-    - [Meta-Architecture](#meta-architecture)
-    - [Strong Representation](#Strong-Representation)
-    - [Interaction Design in Decoder](#Interaction-Design-in-Decoder)
-    - [Optimizing Object Query](#Optimizing-Object-Query)
-    - [Using Query For Association](#Using-Query-For-Association)
-    - [Conditional Query Generation](#Conditional-Query-Generation)
+- [Methods: A Survey](#Paper List)
+  - [Recognition](#Recognition)
+    - [Cued Speech Recognition](#Cued Speech Recognition)
+    - [Co-speech Recognition](#Co-speech Recognition)
+    - [Sign Language Recognition](#Sign Language Recognition)
+    - [Talking Head Recognition](#Talking Head Recognition)
+
 
 [//]: # (  )
 
@@ -75,10 +75,8 @@ In this survey, we present the first detailed survey on Transformer-Based Segmen
     - [Tuning Foundation Models](#Tuning-Foundation-Models)
     - [Domain-aware Segmentation](#Domain-aware-Segmentation)
     - [Label and Model Efficient Segmentation](#Label-and-Model-Efficient-Segmentation)
-    - [Class Agnostic Segmentation and Tracking](#Class-Agnostic-Segmentation-and-Tracking)
-    - [Medical Image Segmentation](#Medical-Image-Segmentation)
 
-## Methods: A Survey
+## Paper List
 
 ### Recognition
 ### Cued Speech Recognition
