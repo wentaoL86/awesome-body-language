@@ -173,7 +173,7 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 If you find our survey and repository useful for your research project, please consider citing our paper:
 
 ```bibtex
-@article{liu2023samsurvey,
+@article{liu2023blsurvey,
   title={A Survey on Deep Multi-modal Learning for Body Language Recognition and Generation},
   author={Liu, Li and Lufei, Gao  and Wentao, Lei and Fengji, Ma and Xiaotian, Lin and Jinting, Wang },
   journal={arXiv:xxxx},
