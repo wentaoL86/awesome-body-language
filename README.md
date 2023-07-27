@@ -49,7 +49,9 @@ We will add the missing papers to this repo ASAP.
 
 [2] We survey the research in 4 parts: Cued Speech, Co-speech, Sign Language, Talking Head.
 
-[3] Some new insight for this directions are discussed.
+[3] We survey the research in 2 directions: Recognition and Generation.
+
+[4] Some new insight for this directions are discussed.
 
 
 ## Introduction
