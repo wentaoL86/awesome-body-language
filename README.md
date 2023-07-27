@@ -60,11 +60,11 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 
 ## Summary of Contents
 
-- [Methods: A Survey](#Paper List)
-  - [Cued Speech Recognition](#Cued Speech Recognition)
-  - [Co-speech Recognition](#Co-speech Recognition)
-  - [Sign Language Recognition](#Sign Language Recognition)
-  - [Talking Head Recognition](#Talking Head Recognition)
+- [Methods: A Survey] (#Paper-List)
+  - [Cued Speech Recognition](#Cued-Speech-Recognition)
+  - [Co-speech Recognition](#Co-speech-Recognition)
+  - [Sign Language Recognition](#Sign-Language-Recognition)
+  - [Talking Head Recognition](#Talking-Head-Recognition)
 
 
 [//]: # (  )
