@@ -388,10 +388,10 @@ If you find our survey and repository useful for your research project, please c
 ```
 ## Contact
 ```
-Prof. Li Liu avrillliu@hkust-gz.edu.cn
+Prof. Li Liu. e-Mail: avrillliu@hkust-gz.edu.cn
 ```
 ```
-Wentao Lei wentaolei@hkust-gz.edu.cn
+Wentao Lei. e-Mail: wentaolei@hkust-gz.edu.cn
 ```
 ## Related Repo For Segmentation and Detection
 
