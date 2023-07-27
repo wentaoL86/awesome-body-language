@@ -4,27 +4,22 @@
 ![](https://img.shields.io/badge/Status-building-red)
 <br />
 
-
-A Survey on Deep Multi-modal Learning for Body
-Language Recognition and Generation
-Li Liu∗, Member, IEEE, Lufei Gao∗, Wentao Lei∗, Fengji Ma∗, Xiaotian Lin∗, Jinting Wang∗
-
 <p align="center">
   <h1 align="center">A Survey on Deep Multi-modal Learning for Body Language Recognition and Generation</h1>
   <p align="center">
     arXiv, 2023
     <br />
-    <a href="https://lxtgh.github.io/"><strong>Li Liu∗</strong></a>
+    <a href="https://lxtgh.github.io/"><strong>Li Liu</strong></a>
     ·
-    <a href="https://henghuiding.github.io/"><strong>Lufei Gao∗</strong></a>
+    <a href="https://henghuiding.github.io/"><strong>Lufei Gao</strong></a>
     ·
-    <a href="http://zhangwenwei.cn/"><strong>Wentao Lei∗</strong></a>
+    <a href="http://zhangwenwei.cn/"><strong>Wentao Lei</strong></a>
     ·
     <a href="https://yuanhaobo.me/"><strong>Fengji Ma</strong></a>
     ·
     <a href="https://sites.google.com/view/guangliangcheng"><strong>Fengji Ma</strong></a>
     <br />
-    <a href="https://oceanpang.github.io/"><strong>Jinting Wang∗</strong></a>
+    <a href="https://oceanpang.github.io/"><strong>Jinting Wang</strong></a>
   </p>
 
   <p align="center">
