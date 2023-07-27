@@ -56,7 +56,7 @@ We will add the missing papers to this repo ASAP.
 
 In this survey, we present the first detailed survey on Transformer-Based Segmentation.
 
-![Alt Text](./figs/survey_pipeline.jpg)
+![Alt Text](Outline-paper.png)
 
 ## Summary of Contents
 
