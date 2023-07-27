@@ -40,18 +40,16 @@ We will add the missing papers to this repo ASAP.
 
 ### 🔥News
 [-] 2023.8.19The second draft is on arxiv. 
+
 [-] 2023.8.7The first draft is on arxiv. 
 
 ### 🔥Highlight!!
 
-[1], Previous transformer surveys divide the methods by the different tasks and settings.
-Different from them, we re-visit and group the existing transformer-based methods from the **technical perspective.**
+[1], we re-visit and group the existing Body Language researchs from the **Multi-modal perspective.**
 
-[2], We survey the methods in two parts: one for the mainstream tasks based on DETR-like meta-architecture, the other for related directions according to the tasks.
+[2], We survey the research in 4 parts: Cued Speech, Co-speech, Sign Language, Talking Head.
 
-[3], We further re-benchmark several representative works on image semantic segmentation and panoptic segmentation datasets. 
-
-[4], We also include the query-based detection transformers since both segmentation and detection tasks are unified by object query. 
+[3], Some new insight for this directions are discussed.
 
 
 ## Introduction
