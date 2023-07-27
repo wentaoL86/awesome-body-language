@@ -62,7 +62,7 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 
 ## Summary of Contents
 
-- [Methods: A Survey](#Paper-List)
+- [Paper List](#Paper-List)
   - [Recognition](#Recognition)
     - [Cued Speech Recognition](#Cued-Speech-Recognition)
     - [Co-speech Recognition](#Co-speech-Recognition)
