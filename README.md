@@ -3,28 +3,28 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/lxtGH/Awesome-Segmenation-With-Transformer/pulls)
 ![](https://img.shields.io/badge/Status-building-red)
 <br />
+
+
+A Survey on Deep Multi-modal Learning for Body
+Language Recognition and Generation
+Li Liu∗, Member, IEEE, Lufei Gao∗, Wentao Lei∗, Fengji Ma∗, Xiaotian Lin∗, Jinting Wang∗
+
 <p align="center">
-  <h1 align="center">Transformer-Based Visual Segmentation: A Survey</h1>
+  <h1 align="center">A Survey on Deep Multi-modal Learning for Body Language Recognition and Generation</h1>
   <p align="center">
     arXiv, 2023
     <br />
-    <a href="https://lxtgh.github.io/"><strong>Xiangtai Li</strong></a>
+    <a href="https://lxtgh.github.io/"><strong>Li Liu∗</strong></a>
     ·
-    <a href="https://henghuiding.github.io/"><strong>Henghui Ding</strong></a>
+    <a href="https://henghuiding.github.io/"><strong>Lufei Gao∗</strong></a>
     ·
-    <a href="http://zhangwenwei.cn/"><strong>Wenwei Zhang</strong></a>
+    <a href="http://zhangwenwei.cn/"><strong>Wentao Lei∗</strong></a>
     ·
-    <a href="https://yuanhaobo.me/"><strong>Haobo Yuan</strong></a>
+    <a href="https://yuanhaobo.me/"><strong>Fengji Ma</strong></a>
     ·
-    <a href="https://sites.google.com/view/guangliangcheng"><strong>Guangliang Cheng</strong></a>
+    <a href="https://sites.google.com/view/guangliangcheng"><strong>Fengji Ma</strong></a>
     <br />
-    <a href="https://oceanpang.github.io/"><strong>Jiangmiao Pang</strong></a>
-    .
-    <a href="https://chenkai.site/"><strong>Kai Chen</strong></a>
-    .
-    <a href="https://liuziwei7.github.io/"><strong>Ziwei Liu</strong></a>
-    .
-    <a href="https://www.mmlab-ntu.com/person/ccloy/"><strong>Chen Change Loy</strong></a>
+    <a href="https://oceanpang.github.io/"><strong>Jinting Wang∗</strong></a>
   </p>
 
   <p align="center">
