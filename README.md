@@ -61,11 +61,10 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 ## Summary of Contents
 
 - [Methods: A Survey](#Paper List)
-    - [Recognition](#Recognition)
-      - [Cued Speech Recognition](#Cued Speech Recognition)
-      - [Co-speech Recognition](#Co-speech Recognition)
-      - [Sign Language Recognition](#Sign Language Recognition)
-      - [Talking Head Recognition](#Talking Head Recognition)
+  - [Cued Speech Recognition](#Cued Speech Recognition)
+  - [Co-speech Recognition](#Co-speech Recognition)
+  - [Sign Language Recognition](#Sign Language Recognition)
+  - [Talking Head Recognition](#Talking Head Recognition)
 
 
 [//]: # (  )
@@ -78,7 +77,6 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 
 ## Paper List
 
-### Recognition
 ### Cued Speech Recognition
 
 | Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
@@ -122,8 +120,6 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 |      |         |                 |                                                                                                                       |                                                              |
 |      |         |                 |                                                                                                                       |                                                              |
 |      |         |                 |                                                                                                                       |                                                              |
-
-### Generation
 
 #### Cued Speech Generation
 
