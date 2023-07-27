@@ -45,11 +45,11 @@ We will add the missing papers to this repo ASAP.
 
 ### 🔥Highlight!!
 
-[1], we re-visit and group the existing Body Language researchs from the **Multi-modal perspective.**
+[1] We re-visit and group the existing Body Language researchs from the **Multi-modal perspective.**
 
-[2], We survey the research in 4 parts: Cued Speech, Co-speech, Sign Language, Talking Head.
+[2] We survey the research in 4 parts: Cued Speech, Co-speech, Sign Language, Talking Head.
 
-[3], Some new insight for this directions are discussed.
+[3] Some new insight for this directions are discussed.
 
 
 ## Introduction
