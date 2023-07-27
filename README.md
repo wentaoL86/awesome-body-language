@@ -379,19 +379,19 @@ In this survey, we present the first detailed survey on Transformer-Based Segmen
 If you find our survey and repository useful for your research project, please consider citing our paper:
 
 ```bibtex
-@article{chunhui2023samsurvey,
-  title={A Comprehensive Survey on Segment Anything Model for Vision and Beyond},
-  author={Zhang, Chunhui and Liu, Li and Cui, Yawen and Huang, Guanjie and Lin, Weilin and Yang, Yiqian and Hu, Yuehong},
-  journal={arXiv:2304.02643},
+@article{liu2023samsurvey,
+  title={A Survey on Deep Multi-modal Learning for Body Language Recognition and Generation},
+  author={Liu, Li and Lufei, Gao  and Wentao, Lei and Fengji, Ma and Xiaotian, Lin and Jinting, Wang },
+  journal={arXiv:xxxx},
   year={2023}
 }
 ```
 ## Contact
 ```
-Prof. Li Liu. e-Mail: avrillliu@hkust-gz.edu.cn
+avrillliu@hkust-gz.edu.cn
 ```
 ```
-Wentao Lei. e-Mail: wentaolei@hkust-gz.edu.cn
+wentaolei@hkust-gz.edu.cn
 ```
 ## Related Repo For Segmentation and Detection
 
