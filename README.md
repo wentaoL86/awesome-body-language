@@ -379,25 +379,21 @@ In this survey, we present the first detailed survey on Transformer-Based Segmen
 If you find our survey and repository useful for your research project, please consider citing our paper:
 
 ```bibtex
-@article{li2023transformer,
-    author={Li, Xiangtai and Ding, Henghui and Zhang, Wenwei and Yuan, Haobo and Cheng, Guangliang and Jiangmiao, Pang and Chen, Kai and Liu, Ziwei and Loy, Chen Change},
-    title={Transformer-Based Visual Segmentation: A Survey},
-    journal={arXiv pre-print},
-    year={2023}
-  }
+@article{chunhui2023samsurvey,
+  title={A Comprehensive Survey on Segment Anything Model for Vision and Beyond},
+  author={Zhang, Chunhui and Liu, Li and Cui, Yawen and Huang, Guanjie and Lin, Weilin and Yang, Yiqian and Hu, Yuehong},
+  journal={arXiv:2304.02643},
+  year={2023}
+}
 ```
 ## Contact
 ```
-xiangtai.li@ntu.edu.sg 
+Prof. Li Liu avrillliu@hkust-gz.edu.cn
 ```
 ```
-lxtpku@pku.edu.cn
+Wentao Lei wentaolei@hkust-gz.edu.cn
 ```
 ## Related Repo For Segmentation and Detection
 
-Attention Model [Repo](https://github.com/cmhungsteve/Awesome-Transformer-Attention) by Min-Hung (Steve) Chen.
-
-Detection Transformer [Repo](https://github.com/IDEA-Research/awesome-detection-transformer) by IDEA.
-
-Open Vocabulary Learning [Repo](https://github.com/jianzongwu/Awesome-Open-Vocabulary) by PKU and NTU. 
+Awesome-Segment-Anything [Repo](https://github.com/liliu-avril/Awesome-Segment-Anything) by Chunhui Zhang.
 
