@@ -23,10 +23,10 @@
   </p>
 
   <p align="center">
-    <a href='https://arxiv.org/abs/2304.09854'>
+    <a href='link'>
       <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
     </a>
-    <a href='https://www.mmlab-ntu.com/project/seg_survey/index.html' style='padding-left: 0.5rem;'>
+    <a href='link' style='padding-left: 0.5rem;'>
       <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=Google%20chrome&logoColor=blue' alt='S-Lab Project Page'>
     </a>
   </p>
