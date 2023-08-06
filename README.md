@@ -150,7 +150,7 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 
 | Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
 |:----:|:-------:|:---------------:|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| 2020 |  CVPR   |      DETR       | [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)                                     | [Code](https://github.com/facebookresearch/detr)             |
+| 2018 |  AAAI   |      DETR       | [Hierarchical LSTM for Sign Language Translation](https://arxiv.org/abs/2005.12872)                                    | N/A              |
 |      |         |                 |                                                                                                                       |  N/A                                                         |
 |      |         |                 |                                                                                                                       |                                                              |
 |      |         |                 |                                                                                                                       |                                                              |
