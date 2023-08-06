@@ -125,7 +125,6 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 
 | Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
 |:----:|:-------:|:---------------:|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| 2016 |  Universal Access in the Information Society   |      Sign3D     | [Interactive editing in French Sign Language dedicated to virtual signers: requirements and challenges](https://link.springer.com/article/10.1007/s10209-015-0411-6)                                     | N/A              |
 |      |         |                 |                                                                                                                       |  N/A                                                         |
 |      |         |                 |                                                                                                                       |                                                              |
 |      |         |                 |                                                                                                                       |                                                              |
@@ -150,6 +149,7 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 
 | Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
 |:----:|:-------:|:---------------:|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| 2016 |  Universal Access in the Information Society   |      Sign3D     | [Interactive editing in French Sign Language dedicated to virtual signers: requirements and challenges](https://link.springer.com/article/10.1007/s10209-015-0411-6)                                     | N/A|
 | 2018 |  AAAI   |      DETR       | [Hierarchical LSTM for Sign Language Translation](https://arxiv.org/abs/2005.12872)                                    | N/A              |
 |  2020          |    IJCV         |    text2gesture             | [Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks](https://link.springer.com/article/10.1007/s11263-019-01281-2)                                                                                                 |  N/A           |
 |  2022  |  CVPR   |      SignGAN    |    [Signing at Scale: Learning to Co-Articulate Signs for Large-Scale Photo-Realistic Sign Language Production](https://arxiv.org/abs/2203.15354)          |       N/A                                           |
