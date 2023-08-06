@@ -125,8 +125,8 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 
 | Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
 |:----:|:-------:|:---------------:|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-|      |         |                 |                                                                                                                       |  N/A                                                         |
-|      |         |                 |                                                                                                                       |                                                              |
+|  1998  |         | Paul et al.     |    [Automatic Generation of Cued Speech for The Deaf: Status and Outlook]                                                                                       |  N/A                                                         |
+|  2008 |         |  G ́erard et al.     |      [Automatic Generation of Cued Speech for The Deaf: Status and Outlook]                                                                      |                                                              |
 |      |         |                 |                                                                                                                       |                                                              |
 |      |         |                 |                                                                                                                       |                                                              |
 |      |         |                 |                                                                                                                       |                                                              |
