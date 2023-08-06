@@ -93,13 +93,14 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 
 | Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
 |:----:|:-------:|:---------------:|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| 2020 |  CVPR   |      DETR       | [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)                                     | [Code](https://github.com/facebookresearch/detr)             |
-|      |         |                 |                                                                                                                       |  N/A                                                         |
-|      |         |                 |                                                                                                                       |                                                              |
-|      |         |                 |                                                                                                                       |                                                              |
-|      |         |                 |                                                                                                                       |                                                              |
-|      |         |                 |                                                                                                                       |                                                              |
-
+| 2015 |     |      DCNF       | [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)                                     | [Code](https://github.com/facebookresearch/detr)             |
+| 2019 |     |        S2G       |                                                                                                                       |  N/A                                                         |
+|  2020  |    |        StyleGestures         |                                                                                                                       |                                                              |
+|  2021    |    |        A2G         |                                                                                                                       |                                                              |
+|  2021  |     |          Text2Gestures       |                                                                                                                       |                                                              |
+|  2022  |    |        ZeroEGGS             |                                  |
+|  2022  |     |         DiffGAN             |                                  |
+|  2022  |          |          RG            |                                  |
 #### Sign Language Recognition
 
 | Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
