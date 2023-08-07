@@ -79,18 +79,14 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 ## Paper-List
 
 ### Cued Speech Recognition
-
 | Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
 |:----:|:-------:|:---------------:|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| 2019 |  CVPR   |  Zhang et al.   | [Continuous Sign Language Recognition via Reinforcement Learning](https://ieeexplore.ieee.org/document/8802972)                                     | N/A             |
-| 2020 |  ECAI   |  Zhou et al. | [Self-Attention-based Fully-Inception Networks for Continuous Sign Language Recognition](https://ieeexplore.ieee.org/document/8802972) |  N/A   |
-| 2020 | ICASSP |   Li et al. | [Key Action and Joint CTC-Attention based Sign Language Recognition](https://ieeexplore.ieee.org/abstract/document/9054316) |  N/A  |
-| 2020 | ECCV  | Cheng et al. | [Fully Convolutional Networks for Continuous Sign Language Recognition](https://link.springer.com/chapter/10.1007/978-3-030-58586-0_41)  | N/A |
-| 2020 | ECCV | Niu et al. | [Stochastic Fine-Grained Labeling of Multi-state Sign Glosses for Continuous Sign Language Recognition](https://link.springer.com/chapter/10.1007/978-3-030-58517-4_11)  | N/A |
-| 2021 | ICPR | [Continuous Sign Language Recognition with Iterative Spatiotemporal Fine-tuning](https://ieeexplore.ieee.org/abstract/document/9412364) | N/A|
-| 2022 | CVPR | Zuo et al. | [C2SLR: Consistency-Enhanced Continuous Sign Language Recognition](https://openaccess.thecvf.com/content/CVPR2022/html/Zuo_C2SLR_Consistency-Enhanced_Continuous_Sign_Language_Recognition_CVPR_2022_paper.html) | N/A |
-| 2022 | IEEE Transactions on Multimedia | Zhou et al. | [Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation](https://ieeexplore.ieee.org/abstract/document/9354538) | N/A |
-
+| 2020 |  CVPR   |      DETR       | [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)                                     | [Code](https://github.com/facebookresearch/detr)             |
+|      |         |                 |                                                                                                                       |  N/A                                                         |
+|      |         |                 |                                                                                                                       |                                                              |
+|      |         |                 |                                                                                                                       |                                                              |
+|      |         |                 |                                                                                                                       |                                                              |
+|      |         |                 |                                                                                                                       |                                                              |
 
 
 #### Co-speech Recognition
@@ -107,12 +103,15 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 
 | Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
 |:----:|:-------:|:---------------:|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| 2020 |  CVPR   |      DETR       | [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)                                     | [Code](https://github.com/facebookresearch/detr)             |
-|      |         |                 |                                                                                                                       |  N/A                                                         |
-|      |         |                 |                                                                                                                       |                                                              |
-|      |         |                 |                                                                                                                       |                                                              |
-|      |         |                 |                                                                                                                       |                                                              |
-|      |         |                 |                                                                                                                       |                                                              |
+| 2019 |  CVPR   |  Zhang et al.   | [Continuous Sign Language Recognition via Reinforcement Learning](https://ieeexplore.ieee.org/document/8802972)                                     | N/A             |
+| 2020 |  ECAI   |  Zhou et al. | [Self-Attention-based Fully-Inception Networks for Continuous Sign Language Recognition](https://ieeexplore.ieee.org/document/8802972) |  N/A   |
+| 2020 | ICASSP |   Li et al. | [Key Action and Joint CTC-Attention based Sign Language Recognition](https://ieeexplore.ieee.org/abstract/document/9054316) |  N/A  |
+| 2020 | ECCV  | Cheng et al. | [Fully Convolutional Networks for Continuous Sign Language Recognition](https://link.springer.com/chapter/10.1007/978-3-030-58586-0_41)  | N/A |
+| 2020 | ECCV | Niu et al. | [Stochastic Fine-Grained Labeling of Multi-state Sign Glosses for Continuous Sign Language Recognition](https://link.springer.com/chapter/10.1007/978-3-030-58517-4_11)  | N/A |
+| 2021 | ICPR | Koishybay et al. | [Continuous Sign Language Recognition with Iterative Spatiotemporal Fine-tuning](https://ieeexplore.ieee.org/abstract/document/9412364) | N/A|
+| 2022 | CVPR | Zuo et al. | [C2SLR: Consistency-Enhanced Continuous Sign Language Recognition](https://openaccess.thecvf.com/content/CVPR2022/html/Zuo_C2SLR_Consistency-Enhanced_Continuous_Sign_Language_Recognition_CVPR_2022_paper.html) | N/A |
+| 2022 | IEEE Transactions on Multimedia | Zhou et al. | [Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation](https://ieeexplore.ieee.org/abstract/document/9354538) | N/A |
+
 
 #### Talking Head Recognition
 
