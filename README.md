@@ -17,7 +17,7 @@
     ·
     <a href="/"><strong>Fengji Ma</strong></a>
     ·
-    <a href="/"><strong>Fengji Ma</strong></a>
+    <a href="/"><strong>Xiaotian Lin</strong></a>
     <br />
     <a href="/"><strong>Jinting Wang</strong></a>
   </p>
