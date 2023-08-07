@@ -82,8 +82,8 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 
 | Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
 |:----:|:-------:|:---------------:|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| 2020 |  CVPR   |      DETR       | [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)                                     | [Code](https://github.com/facebookresearch/detr)             |
-|      |         |                 |                                                                                                                       |  N/A                                                         |
+| 2019 |  CVPR   |  Zhang et al.   | [Continuous Sign Language Recognition via Reinforcement Learning](https://ieeexplore.ieee.org/document/8802972)                                     | N/A             |
+| 2019 |  CVPR   |                 |                                                                                                                       |  N/A                                                         |
 |      |         |                 |                                                                                                                       |                                                              |
 |      |         |                 |                                                                                                                       |                                                              |
 |      |         |                 |                                                                                                                       |                                                              |
