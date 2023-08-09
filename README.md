@@ -155,9 +155,6 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 | 2022  |    ACL  |     DSM        |              [Modeling Intensification for Sign Language Generation: A Computational Approach](https://arxiv.org/abs/2203.09679)                                                                                                    |        [code](https://github.com/Merterm/Modeling-Intensification-for-SLG)          |
 |  2022  |  CVPR   |      SignGAN    |    [Signing at Scale: Learning to Co-Articulate Signs for Large-Scale Photo-Realistic Sign Language Production](https://arxiv.org/abs/2203.15354)          |       N/A                                           |
 | 2023  |   CVPR   |    PoseVQ-Diffusion     |  [Vector Quantized Diffusion Model with CodeUnet for Text-to-Sign Pose Sequences Generation](https://arxiv.org/abs/2208.09141)                                                                                  |    [Code](https://github.com/cientgu/VQ-Diffusion)                                                          |
-|      |         |                 |                                                                                                                       |                                                              |
-|      |         |                 |                                                                                                                       |                                                              |
-
 #### Talking Head Generation
 
 | Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
