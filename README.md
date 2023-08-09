@@ -87,8 +87,8 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 | 2020 | IEEE Transactions on Multimedia | Liu et al. | [Re-synchronization using the hand preceding model for multi-modal fusion in automatic continuous cued speech recognition](https://ieeexplore.ieee.org/abstract/document/9016100) | N/A |
 | 2021 | EUSIPCO | Papadimitriou et al. | [A Fully Convolutional Sequence Learning Approach for Cued Speech Recognition from Videos](https://ieeexplore.ieee.org/abstract/document/9287365) | N/A |
 | 2021 | HCII | Papadimitriou et al. | [Multimodal Fusion and Sequence Learning for Cued Speech Recognition from Videos](https://link.springer.com/chapter/10.1007/978-3-030-78095-1_21) | N/A |
-| 2021 | CoRR | Wang et al. |[Cross-Modal Knowledge Distillation Method for Automatic Cued Speech Recognition](https://arxiv.org/abs/2106.13686) | N/A |
-| 2021 | CoRR | Wang et al. | [An Attention Self-supervised Contrastive Learning based Three-stage Model for Hand Shape Feature Representation in Cued Speech](https://arxiv.org/abs/2106.14016) | N/A |
+| 2021 | arXiv preprint | Wang et al. |[Cross-Modal Knowledge Distillation Method for Automatic Cued Speech Recognition](https://arxiv.org/abs/2106.13686) | N/A |
+| 2021 | arXiv preprint | Wang et al. | [An Attention Self-supervised Contrastive Learning based Three-stage Model for Hand Shape Feature Representation in Cued Speech](https://arxiv.org/abs/2106.14016) | N/A |
 | 2022 | ICASSP |  Sankar et al. | [Multistream Neural Architectures for Cued Speech Recognition Using a Pre-Trained Visual Feature Extractor and Constrained CTC Decoding](https://ieeexplore.ieee.org/abstract/document/9746976) | N/A |
 | 2022 | ISCSLP | Liu et al. | [Objective Hand Complexity Comparison between Two Mandarin Chinese Cued Speech Systems](https://ieeexplore.ieee.org/abstract/document/10037814) | N/A |
 | 2023 |  ICASSP | Liu et al. | [Cross-Modal Mutual Learning for Cued Speech Recognition](https://ieeexplore.ieee.org/abstract/document/10095271) | N/A |
