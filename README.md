@@ -106,7 +106,7 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 
 | Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
 |:----:|:-------:|:---------------:|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| 2019 |  CVPR   |  Zhang et al.   | [Continuous Sign Language Recognition via Reinforcement Learning](https://ieeexplore.ieee.org/document/8802972)                                     | N/A             |
+| 2019 |  ICIP   |  Zhang et al.   | [Continuous Sign Language Recognition via Reinforcement Learning](https://ieeexplore.ieee.org/document/8802972)                                     | N/A             |
 | 2020 |  ECAI   |  Zhou et al. | [Self-Attention-based Fully-Inception Networks for Continuous Sign Language Recognition](https://ieeexplore.ieee.org/document/8802972) |  N/A   |
 | 2020 | ICASSP |   Li et al. | [Key Action and Joint CTC-Attention based Sign Language Recognition](https://ieeexplore.ieee.org/abstract/document/9054316) |  N/A  |
 | 2020 | ECCV  | Cheng et al. | [Fully Convolutional Networks for Continuous Sign Language Recognition](https://link.springer.com/chapter/10.1007/978-3-030-58586-0_41)  | N/A |
@@ -115,8 +115,8 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 | 2022 | CVPR | Zuo et al. | [C2SLR: Consistency-Enhanced Continuous Sign Language Recognition](https://openaccess.thecvf.com/content/CVPR2022/html/Zuo_C2SLR_Consistency-Enhanced_Continuous_Sign_Language_Recognition_CVPR_2022_paper.html) | N/A |
 | 2022 | IEEE Transactions on Multimedia | Zhou et al. | [Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation](https://ieeexplore.ieee.org/abstract/document/9354538) | N/A |
 | 2022 | NeurIPS | Chen et al. | [Two-Stream Network for Sign Language Recognition and Translation](https://proceedings.neurips.cc/paper_files/paper/2022/file/6cd3ac24cdb789beeaa9f7145670fcae-Paper-Conference.pdf) | N/A |
-| 2023 | CVPR | Zheng et al. | [CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition With Variational Alignment](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_CVT-SLR_Contrastive_Visual-Textual_Transformation_for_Sign_Language_Recognition_With_Variational_CVPR_2023_paper.html) | N/A |
-| 2023 | TPAMI | Bilge et al. | [Towards Zero-Shot Sign Language Recognition](https://ieeexplore.ieee.org/abstract/document/9681230) | N/A
+| 2023 | CVPR | Zheng et al. | [CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition With Variational Alignment](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_CVT-SLR_Contrastive_Visual-Textual_Transformation_for_Sign_Language_Recognition_With_Variational_CVPR_2023_paper.html) | [Code](https://github.com/binbinjiang/CVT-SLR) |
+| 2023 | TPAMI | Bilge et al. | [Towards Zero-Shot Sign Language Recognition](https://ieeexplore.ieee.org/abstract/document/9681230) | N/A |
 | 2023 | AAAI | Hu et al. | [Self-Emphasizing Network for Continuous Sign Language Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/25164) | [Code](https://github.com/hulianyuyy/SEN_CSLR) |
 
 
