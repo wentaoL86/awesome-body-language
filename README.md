@@ -83,10 +83,10 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 |:----:|:-------:|:---------------:|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 | 2010 | Speech Communication | Heracleous et al. | [Cued speech automatic recognition in normal-hearing and deaf subjects](https://www.sciencedirect.com/science/article/abs/pii/S0167639310000415) | N/A |
 | 2012 | EUSIPCO | Heracleous et al. | [Continuous phoneme recognition in Cued Speech for French](https://ieeexplore.ieee.org/abstract/document/6333858) | N/A |
-| 2018 | Liu et al. | Interspeech | [Visual Recognition of Continuous Cued Speech Using a Tandem CNN-HMM Approach](https://www.isca-speech.org/archive_v0/Interspeech_2018/pdfs/2434.pdf) | N/A |
-| 2020 | IEEE Transactions on Multimedia | Liu et al. | [Re-synchronization using the hand preceding model for multi-modal fusion in automatic continuous cued speech recognition](https://ieeexplore.ieee.org/abstract/document/9016100) | N/A |
-| 2021 | EUSIPCO |  Papadimitriou et al. | [A Fully Convolutional Sequence Learning Approach for Cued Speech Recognition from Videos](https://ieeexplore.ieee.org/abstract/document/9287365) | N/A |
-| 2021 | HCII | Papadimitriou et al. | [Multimodal Fusion and Sequence Learning for Cued Speech Recognition from Videos](https://link.springer.com/chapter/10.1007/978-3-030-78095-1_21) | N/A |
+| 2018 | Interspeech | Liu et al. | [Visual Recognition of Continuous Cued Speech Using a Tandem CNN-HMM Approach](https://www.isca-speech.org/archive_v0/Interspeech_2018/pdfs/2434.pdf) | N/A |
+| 2020 | Liu et al. |  IEEE Transactions on Multimedia | [Re-synchronization using the hand preceding model for multi-modal fusion in automatic continuous cued speech recognition](https://ieeexplore.ieee.org/abstract/document/9016100) | N/A |
+| 2021 | Papadimitriou et al. | EUSIPCO | [A Fully Convolutional Sequence Learning Approach for Cued Speech Recognition from Videos](https://ieeexplore.ieee.org/abstract/document/9287365) | N/A |
+| 2021 | Papadimitriou et al. |  HCII | [Multimodal Fusion and Sequence Learning for Cued Speech Recognition from Videos](https://link.springer.com/chapter/10.1007/978-3-030-78095-1_21) | N/A |
 | 2021 | Wang et al. | CoRR | [Cross-Modal Knowledge Distillation Method for Automatic Cued Speech Recognition](https://arxiv.org/abs/2106.13686) | N/A |
 | 2021 | Wang et al. | CoRR | [An Attention Self-supervised Contrastive Learning based Three-stage Model for Hand Shape Feature Representation in Cued Speech](https://arxiv.org/abs/2106.14016) | N/A |
 | 2022 | Sankar et al. |  ICASSP | [Multistream Neural Architectures for Cued Speech Recognition Using a Pre-Trained Visual Feature Extractor and Constrained CTC Decoding](https://ieeexplore.ieee.org/abstract/document/9746976) | N/A |
