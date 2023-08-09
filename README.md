@@ -164,7 +164,7 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 |      |         |                 |                                                                                                                       |                                                              |
 |      |         |                 |                                                                                                                       |                                                              |
 |      |         |                 |                                                                                                                       |                                                              |
-|      |         |                 |                                                                                                                       |                                                              |
+|      |         |                  |                                                                                                                       |                                                              |
 
 ## Acknowledgement
 
