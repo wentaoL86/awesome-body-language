@@ -98,8 +98,8 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 
 | Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
 |:----:|:-------:|:---------------:|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| 2014 | Bhattacharya et al. |  MA3HMI  | [Disposition Recognition from Spontaneous Speech Towards a Combination with Co-speech Gestures](https://link.springer.com/chapter/10.1007/978-3-319-15557-9_6) | N/A |
-| 2021 |  Böck et al. | ACM MM | [Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning](https://dl.acm.org/doi/abs/10.1145/3474085.3475223) | N/A |
+| 2014 | MA3HMI  |  Bhattacharya et al. | [Disposition Recognition from Spontaneous Speech Towards a Combination with Co-speech Gestures](https://link.springer.com/chapter/10.1007/978-3-319-15557-9_6) | N/A |
+| 2021 | ACM MM | Böck et al. | [Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning](https://dl.acm.org/doi/abs/10.1145/3474085.3475223) | N/A |
 
 
 #### Sign Language Recognition
