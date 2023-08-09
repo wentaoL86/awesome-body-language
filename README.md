@@ -81,24 +81,28 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 ### Cued Speech Recognition
 | Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
 |:----:|:-------:|:---------------:|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| 2020 |  CVPR   |      DETR       | [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)                                     | [Code](https://github.com/facebookresearch/detr)             |
-|      |         |                 |                                                                                                                       |  N/A                                                         |
-|      |         |                 |                                                                                                                       |                                                              |
-|      |         |                 |                                                                                                                       |                                                              |
-|      |         |                 |                                                                                                                       |                                                              |
-|      |         |                 |                                                                                                                       |                                                              |
+| 2010 | Heracleous et al. | Speech Communication | [Cued speech automatic recognition in normal-hearing and deaf subjects](https://www.sciencedirect.com/science/article/abs/pii/S0167639310000415) | N/A |
+| 2012 | Heracleous et al. | EUSIPCO | [Continuous phoneme recognition in Cued Speech for French](https://ieeexplore.ieee.org/abstract/document/6333858) | N/A |
+| 2018 | Liu et al. | Interspeech | [Visual Recognition of Continuous Cued Speech Using a Tandem CNN-HMM Approach](https://www.isca-speech.org/archive_v0/Interspeech_2018/pdfs/2434.pdf) | N/A |
+| 2020 |  | IEEE Transactions on Multimedia | [Re-synchronization using the hand preceding model for multi-modal fusion in automatic continuous cued speech recognition](https://ieeexplore.ieee.org/abstract/document/9016100) | N/A |
+| 2021 | Papadimitriou et al. | EUSIPCO | [A Fully Convolutional Sequence Learning Approach for Cued Speech Recognition from Videos](https://ieeexplore.ieee.org/abstract/document/9287365) | N/A |
+| 2021 | Papadimitriou et al. | HCII | [Multimodal Fusion and Sequence Learning for Cued Speech Recognition from Videos](https://link.springer.com/chapter/10.1007/978-3-030-78095-1_21) | N/A |
+| 2021 | CoRR | Wang et al. | [Cross-Modal Knowledge Distillation Method for Automatic Cued Speech Recognition](https://arxiv.org/abs/2106.13686) | N/A |
+| 2021 | CoRR | Wang et al. | [An Attention Self-supervised Contrastive Learning based Three-stage Model for Hand Shape Feature Representation in Cued Speech](https://arxiv.org/abs/2106.14016) | N/A |
+| 2022 | ICASSP | Sankar et al. | [Multistream Neural Architectures for Cued Speech Recognition Using a Pre-Trained Visual Feature Extractor and Constrained CTC Decoding](https://ieeexplore.ieee.org/abstract/document/9746976) | N/A |
+| 2022 | ISCSLP | Liu et al. | [Objective Hand Complexity Comparison between Two Mandarin Chinese Cued Speech Systems](https://ieeexplore.ieee.org/abstract/document/10037814) | N/A |
+| 2023 | ICASSP | Liu et al. | [Cross-Modal Mutual Learning for Cued Speech Recognition](https://ieeexplore.ieee.org/abstract/document/10095271) | N/A |
+
 
 
 #### Co-speech Recognition
 
 | Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
 |:----:|:-------:|:---------------:|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| 2020 |  CVPR   |      DETR       | [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)                                     | [Code](https://github.com/facebookresearch/detr)             |
-|      |         |                 |                                                                                                                       |  N/A                                                         |
-|      |         |                 |                                                                                                                       |                                                              |
-|      |         |                 |                                                                                                                       |                                                              |
-|      |         |                 |                                                                                                                       |                                                              |
-|      |         |                 |                                                                                                                       |                                                              |
+| 2014 |  MA3HMI  |  Bhattacharya et al. | [Disposition Recognition from Spontaneous Speech Towards a Combination with Co-speech Gestures](https://link.springer.com/chapter/10.1007/978-3-319-15557-9_6) | N/A |
+| 2021 |  Böck et al. | [Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning](https://dl.acm.org/doi/abs/10.1145/3474085.3475223) | N/A |
+
+
 #### Sign Language Recognition
 
 | Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
@@ -114,7 +118,7 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 | 2022 | NeurIPS | Chen et al. | [Two-Stream Network for Sign Language Recognition and Translation](https://proceedings.neurips.cc/paper_files/paper/2022/file/6cd3ac24cdb789beeaa9f7145670fcae-Paper-Conference.pdf) | N/A |
 | 2023 | CVPR | Zheng et al. | [CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition With Variational Alignment](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_CVT-SLR_Contrastive_Visual-Textual_Transformation_for_Sign_Language_Recognition_With_Variational_CVPR_2023_paper.html) | N/A |
 | 2023 | TPAMI | Bilge et al. | [Towards Zero-Shot Sign Language Recognition](https://ieeexplore.ieee.org/abstract/document/9681230) | N/A
-| 2023 | AAAI | Hu et al. | [Self-Emphasizing Network for Continuous Sign Language Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/25164) | N/A |
+| 2023 | AAAI | Hu et al. | [Self-Emphasizing Network for Continuous Sign Language Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/25164) | https://github.com/hulianyuyy/SEN_CSLR |
 
 
 #### Talking Head Recognition
