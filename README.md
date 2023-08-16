@@ -156,6 +156,7 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 |:----:|:-------:|:---------------:|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 | 2016 |  Universal Access in the Information Society   |      Sign3D     | [Interactive editing in French Sign Language dedicated to virtual signers: requirements and challenges](https://link.springer.com/article/10.1007/s10209-015-0411-6)                                     | N/A|
 | 2018 |  AAAI   |      DETR       | [Hierarchical LSTM for Sign Language Translation](https://arxiv.org/abs/2005.12872)                                    | N/A              |
+  |
 |  2020          |    IJCV         |    text2gesture             | [Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks](https://link.springer.com/article/10.1007/s11263-019-01281-2)                                                                                                 |  N/A           |
 |  2020  |    CVPR    |    ESN       |    [Everybody Sign Now:Translating Spoken Language to Photo Realistic Sign Language Video](https://arxiv.org/pdf/2011.09846.pdf)                                                                                                             |      N/A            |
 | 2020     |    BMVC   |    Saunders et al.|                         [Adversarial Training for Multi-Channel Sign Language Production](https://arxiv.org/pdf/2008.12405.pdf)                                                                                           |    N/A   |
@@ -166,12 +167,71 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 
 | Year |  Venue  |     Acronym     | Paper Title                                                                                                           | Code/Project                                                 |
 |:----:|:-------:|:---------------:|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+|    2018  |   ECCV  |  X2Face    |  [X2Face: A network for controlling face generation using images, audio, and pose codes](https://openaccess.thecvf.com/content_ECCV_2018/html/Olivia_Wiles_X2Face_A_network_ECCV_2018_paper.html)|  N/A|
 | 2018 |  ECCV   |      Chen et al.    | [Lip Movements Generation at a Glance](https://openaccess.thecvf.com/content_ECCV_2018/papers/Lele_Chen_Lip_Movements_Generation_ECCV_2018_paper.pdf)                                     | [Code](https://github.com/lelechen63/3d_gan)             |
-|   2019  |    IJCAI     |         Song et al.        |   [Talking Face Generation by Conditional Recurrent Adversarial Network](https://www.ijcai.org/proceedings/2019/0129.pdf)                       | [code](https://github.com/susanqq/Talking Face Generation)                                                     |
+|  2019  |  NeurIPS |   Wen et al.   |  [Face Reconstruction from Voice using Generative Adversarial Networks](https://proceedings.neurips.cc/paper_files/paper/2019/file/eb9fc349601c69352c859c1faa287874-Paper.pdf)|  [Code](https://github.com/cmu-mlsp/reconstructing_faces_from_voices)|
+|   2019  |  CVPR  |  Speech2Face |  [Speech2Face: Learning the Face Behind a Voice](https://openaccess.thecvf.com/content_CVPR_2019/html/Oh_Speech2Face_Learning_the_Face_Behind_a_Voice_CVPR_2019_paper.html)| N/A|
+|  2019   |  ICASSP  |  Wav2Pix |   [WAV2PIX: Speech-conditioned Face Generation using Generative Adversarial Networks](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Sight%20and%20Sound/Amanda_Cardoso_Duarte_WAV2PIX_Speech-conditioned_Face_Generation_using_Generative_Adversarial_Networks_CVPRW_2019_paper.pdf)|  [Code](https://imatge-upc.github.io/wav2pix/)| 
+|  2019   |  IJCV         |  [You Said That?: Synthesising Talking Faces from Audio](https://link.springer.com/article/10.1007/s11263-019-01150-y)|
+N/A|
+|   2019  |    IJCAI     |         Song et al.        |   [Talking Face Generation by Conditional Recurrent Adversarial Network](https://www.ijcai.org/proceedings/2019/0129.pdf)     |[Code](https://github.com/susanqq/Talking Face Generation)|
 |  2019    |    AAAI     |    Zhou et al.             |  [Talking face generation by adversarially disentangled audio-visual representation](https://ojs.aaai.org/index.php/AAAI/article/view/4967)      |         N/A                                                   |
-|      |         |                 |                                                                                                                       |                                                              |
-|      |         |                 |                                                                                                                       |                                                              |
-|      |         |                  |                                                                                                                       |                                                              |
+|    2019  |    CVPR     |         Kefalas et al .        |          [End-to-End Speech-Driven Realistic Facial Animation with Temporal GANs](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Sight%20and%20Sound/Konstantinos_Vougioukas_End-to-End_Speech-Driven_Realistic_Facial_Animation_with_Temporal_GANs_CVPRW_2019_paper.pdf)    |    N/A                                                          |
+|   2020   |    ICCASP     |     Kefalas et al .            |       [Speech-Driven Facial Animation Using Polynomial Fusion of Features](https://ieeexplore.ieee.org/abstract/document/9054469)                        |            N/A                                                  |
+|   2020   |   ICASSP|   Eskimez et al.     |  [End-To-End Generation of Talking Faces from Noisy Speech](https://ieeexplore.ieee.org/abstract/document/9054103)|   N/A|
+|    2020  |   IJCNN      |          Sinha et al.        |  [Identity-Preserving Realistic Talking Face Generation](https://ieeexplore.ieee.org/abstract/document/9206665)              |         N/A                                                     |
+
+|  2020    |  INTERSPEECH |     Wang et al.    |  [Speech Driven Talking Head Generation via Attentional Landmarks Based
+Representation](http://www.interspeech2020.org/uploadfile/pdf/Mon-3-8-7.pdf)|   N/A|
+|  2020    |  ACM MM      |  Wav2lip           |  [A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild](https://dl.acm.org/doi/abs/10.1145/3394171.3413532)|    N/A|
+|   2020   |  arXiv preprint |  Yi et al. |  [Audio-driven talking face video generation with learning-based personalized head pose](https://arxiv.org/abs/2002.10137)|  N/A|
+|   2020   |  ECCV|   Chen et al.|   [Talking-Head Generation with Rhythmic Head Motion](https://link.springer.com/chapter/10.1007/978-3-030-58545-7_3#citea) | [Code](https://github.com/lelechen63/Talking-head-Generation-with-Rhythmic-Head-Motion)|
+|  2020    |   WACV|  Mittal et al.| [Animating Face using Disentangled Audio Representations](https://openaccess.thecvf.com/content_WACV_2020/html/Mittal_Animating_Face_using_Disentangled_Audio_Representations_WACV_2020_paper.html)| N/A|
+|   2020  |  ECCV  |   MEAD     |  [MEAD: A Large-Scale Audio-Visual Dataset for Emotional Talking-Face Generation](https://link.springer.com/chapter/10.1007/978-3-030-58589-1_42)| [Code](https://wywu.github.io/projects/MEAD/MEAD.html.)|
+|  2020   |  TVCG   |  Wen et al.   | [Photorealistic Audio-driven Video Portraits](https://ieeexplore.ieee.org/abstract/document/9199560)|
+[Code](https://github.com/xinwen-cs/AudioDVP)|
+|  2021    |  CVPR   | LipSync3D    |  [LipSync3D: Data-Efficient Learning of Personalized 3D Talking Faces From Video Using Pose and Lighting Normalization](https://openaccess.thecvf.com/content/CVPR2021/html/Lahiri_LipSync3D_Data-Efficient_Learning_of_Personalized_3D_Talking_Faces_From_Video_CVPR_2021_paper.html)| N/A|
+| 2021  |  The Visual Computer |   [Facial expression GAN for voice-driven face generation](https://link.springer.com/article/10.1007/s00371-021-02074-w#citeas)|  N/A|
+|   2021   |  IJCAI  |  Zhu et al.  |  [Arbitrary talking face generation via attentional audio-visual coherence learning](https://dl.acm.org/doi/abs/10.5555/3491440.3491767)|  N/A|
+|  2021    |  |JCAI|    Audio2head    |  [Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion](https://www.ijcai.org/proceedings/2021/0152.pdf)| N/A|
+|   2021   |  ACM   TOG  |  Lu et al.   |  [Live speech portraits: real-time photorealistic talking-head animation](https://dl.acm.org/doi/abs/10.1145/3478513.3480484)|  N/A|
+|   2021   |   ICCV  |   FACIAL     |  [FACIAL: Synthesizing Dynamic Talking Face With Implicit Attribute Learning](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_FACIAL_Synthesizing_Dynamic_Talking_Face_With_Implicit_Attribute_Learning_ICCV_2021_paper.html)|  N/A|
+|  2021  |  ICCV  |  AD-NeRF  |   [AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis](https://openaccess.thecvf.com/content/ICCV2021/html/Guo_AD-NeRF_Audio_Driven_Neural_Radiance_Fields_for_Talking_Head_Synthesis_ICCV_2021_paper.html)|
+[Code](https://github.com/YudongGuo/AD-NeRF)|
+|   2021   |  CVPR  |   MEAD     |  [Flow-Guided One-Shot Talking Face Generation With a High-Resolution Audio-Visual Dataset](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Flow-Guided_One-Shot_Talking_Face_Generation_With_a_High-Resolution_Audio-Visual_Dataset_CVPR_2021_paper.html)| [Code](https://github.com/MRzzm/HDTF)
+|   2021|   arXiv preprint|  Si et al.|  [Speech2Video: Cross-Modal Distillation for Speech to Video Generation](https://arxiv.org/abs/2107.04806)|
+N/A   |
+|   2021|   arXiv preprint|  Chen et al. |  [Talking Head Generation with Audio and Speech Related Facial Action Units](https://arxiv.org/abs/2110.09951)| N/A|
+|  2021  |  CVPR  |  PC-AVS  |  [Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Pose-Controllable_Talking_Face_Generation_by_Implicitly_Modularized_Audio-Visual_Representation_CVPR_2021_paper.html)| [Code](https://hangznju-cuhk.github.io/projects/PC-AVS)|
+|  2022|   CVPR   |  GC-VAT   | [Expressive Talking Head Generation With Granular Audio-Visual Control](https://openaccess.thecvf.com/content/CVPR2022/html/Liang_Expressive_Talking_Head_Generation_With_Granular_Audio-Visual_Control_CVPR_2022_paper.html)|   N/A|
+|  2022  |  AAAI   |   Wang et al.    |  [One-Shot Talking Face Generation from Single-Speaker Audio-Visual Correlation Learning](https://ojs.aaai.org/index.php/AAAI/article/view/20154) |    N/A|
+|  2022  |  ACM  SIGGRAPH|  EAMM  |   [EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model](https://dl.acm.org/doi/abs/10.1145/3528233.3530745) |  N/A|
+| 2022   |  arXiv preprint  |  SPACE | [SPACE: Speech-driven Portrait Animation with Controllable Expression](https://arxiv.org/abs/2211.09809)|
+ N/A|
+ |  2022 |  arXiv preprint |   DFA-NERF |  [DFA-NeRF: Personalized Talking Head Generation via Disentangled Face Attributes Neural Rendering](https://arxiv.org/abs/2201.00791)|   N/A|
+ |    2022 |  arXiv preprint |  Yu et al.   |  [Talking Head Generation with Probabilistic Audio-to-Visual Diffusion Priors](https://arxiv.org/abs/2212.04248)|  N/A|  
+ |   2022 |  ACCESS|  Bigioi et al.  |  [Pose-Aware Speech Driven Facial Landmark Animation Pipeline for Automated Dubbing](https://ieeexplore.ieee.org/abstract/document/9994681) |  N/A|
+ |  2022  |  ECCV  |  DFRF  |  [Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis](https://link.springer.com/chapter/10.1007/978-3-031-19775-8_39)|   [Code](https://sstzal.github.io/DFRF/)|
+ |   2022 |  ECCV  |  SSP-NeRF   |  [Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation](https://link.springer.com/chapter/10.1007/978-3-031-19836-6_7)|  [Code](https://alvinliu0.github.io/projects/SSP-NeRF)|
+ |  2023 | arXiv preprint   | DIRFA    |  [Audio-Driven Talking Face Generation with Diverse yet Realistic Facial Animations](https://arxiv.org/abs/2304.08945) |  N/A|
+ |   2023  |  ICASSP|    DisCoHead   |  [DisCoHead: Audio-and-Video-Driven Talking Head Generation by Disentangled Control of Head Pose and Facial Expressions](https://ieeexplore.ieee.org/abstract/document/10095670)| N/A|
+ |   2023  |   ICASSP  |  OPT     |  [OPT: One-shot Pose-Controllable Talking Head Generation](https://ieeexplore.ieee.org/abstract/document/10094598)|    N/A|
+ |    2023 |   ICASSP|  Zhua et al.  |   [Audio-Driven Talking Head Video Generation with Diffusion Model](https://ieeexplore.ieee.org/abstract/document/10094937)|   N/A|
+|   2023   |   CVPR    |   Wang et al.   |  [Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Progressive_Disentangled_Representation_Learning_for_Fine-Grained_Controllable_Talking_Head_Synthesis_CVPR_2023_paper.html)|  N/A|
+|   2023  | ICPADS    |   Zhang et al.|  [Talking Head Generation for Media Interaction System with Feature Disentanglement](https://ieeexplore.ieee.org/abstract/document/10077905/) |   N/A|
+|   2023  |   CVPR  |    SadTalker |  [SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_SadTalker_Learning_Realistic_3D_Motion_Coefficients_for_Stylized_Audio-Driven_Single_CVPR_2023_paper.html)|  [Code](https://sadtalker.github.io.)|
+|   2023 |  CVPR  |   DiffTalk  |  [DiffTalk: Crafting Diffusion Models for Generalized Audio-Driven Portraits Animation](https://openaccess.thecvf.com/content/CVPR2023/html/Shen_DiffTalk_Crafting_Diffusion_Models_for_Generalized_Audio-Driven_Portraits_Animation_CVPR_2023_paper.html)|  [Code](https://sstzal.github.io/DiffTalk/)|
+|   2023 |  CoRR  |       |   [Multimodal-driven Talking Face Generation via a Unified Diffusion-based Generator](https://zst1406217.github.io/home_page_files/Multimodal-driven%20Talking%20Face%20Generation.pdf)|  N/A|
+
+
+
+
+
+
+
+
+
+
 
 ## Acknowledgement
 
