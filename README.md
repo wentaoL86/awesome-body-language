@@ -179,9 +179,8 @@ N/A|
 |    2019  |    CVPR     |         Kefalas et al .        |          [End-to-End Speech-Driven Realistic Facial Animation with Temporal GANs](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Sight%20and%20Sound/Konstantinos_Vougioukas_End-to-End_Speech-Driven_Realistic_Facial_Animation_with_Temporal_GANs_CVPRW_2019_paper.pdf)    |    N/A                                                          |
 |   2020   |    ICCASP     |     Kefalas et al .            |       [Speech-Driven Facial Animation Using Polynomial Fusion of Features](https://ieeexplore.ieee.org/abstract/document/9054469)                        |            N/A                                                  |
 |   2020   |   ICASSP|   Eskimez et al.     |  [End-To-End Generation of Talking Faces from Noisy Speech](https://ieeexplore.ieee.org/abstract/document/9054103)|   N/A|
-|    2020  |   IJCNN      |          Sinha et al.        |  [Identity-Preserving Realistic Talking Face Generation](https://ieeexplore.ieee.org/abstract/document/9206665)              |         N/A                                                     |
-
-|  2020    |  INTERSPEECH |     Wang et al.    |  [Speech Driven Talking Head Generation via Attentional Landmarks Based
+|    2020  |   IJCNN      |          Sinha et al.        |  [Identity-Preserving Realistic Talking Face Generation](https://ieeexplore.ieee.org/abstract/document/9206665)              |         N/A         |
+|  2020    |  INTERSPEECH |     Wang et al.    | [Speech Driven Talking Head Generation via Attentional Landmarks Based
 Representation](http://www.interspeech2020.org/uploadfile/pdf/Mon-3-8-7.pdf)|   N/A|
 |  2020    |  ACM MM      |  Wav2lip           |  [A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild](https://dl.acm.org/doi/abs/10.1145/3394171.3413532)|    N/A|
 |   2020   |  arXiv preprint |  Yi et al. |  [Audio-driven talking face video generation with learning-based personalized head pose](https://arxiv.org/abs/2002.10137)|  N/A|
