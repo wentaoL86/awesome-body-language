@@ -174,26 +174,22 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 |   2020   |  ECCV|   Chen et al.|   [Talking-Head Generation with Rhythmic Head Motion](https://link.springer.com/chapter/10.1007/978-3-030-58545-7_3#citea) | [Code](https://github.com/lelechen63/Talking-head-Generation-with-Rhythmic-Head-Motion)|
 |  2020    |   WACV|  Mittal et al.| [Animating Face using Disentangled Audio Representations](https://openaccess.thecvf.com/content_WACV_2020/html/Mittal_Animating_Face_using_Disentangled_Audio_Representations_WACV_2020_paper.html)| N/A|
 |   2020  |  ECCV  |   MEAD     |  [MEAD: A Large-Scale Audio-Visual Dataset for Emotional Talking-Face Generation](https://link.springer.com/chapter/10.1007/978-3-030-58589-1_42)| [Code](https://wywu.github.io/projects/MEAD/MEAD.html.)|
-|  2020   |  TVCG   |  Wen et al.   | [Photorealistic Audio-driven Video Portraits](https://ieeexplore.ieee.org/abstract/document/9199560)|
-[Code](https://github.com/xinwen-cs/AudioDVP)|
+|  2020   |  TVCG   |  Wen et al.   | [Photorealistic Audio-driven Video Portraits](https://ieeexplore.ieee.org/abstract/document/9199560)|[Code](https://github.com/xinwen-cs/AudioDVP)|
 |  2021    |  CVPR   | LipSync3D    |  [LipSync3D: Data-Efficient Learning of Personalized 3D Talking Faces From Video Using Pose and Lighting Normalization](https://openaccess.thecvf.com/content/CVPR2021/html/Lahiri_LipSync3D_Data-Efficient_Learning_of_Personalized_3D_Talking_Faces_From_Video_CVPR_2021_paper.html)| N/A|
-| 2021  |  The Visual Computer |   [Facial expression GAN for voice-driven face generation](https://link.springer.com/article/10.1007/s00371-021-02074-w#citeas)|  N/A|
+| 2021  |  The Visual Computer | Fang et al. | [Facial expression GAN for voice-driven face generation](https://link.springer.com/article/10.1007/s00371-021-02074-w#citeas)|  N/A|
 |   2021   |  IJCAI  |  Zhu et al.  |  [Arbitrary talking face generation via attentional audio-visual coherence learning](https://dl.acm.org/doi/abs/10.5555/3491440.3491767)|  N/A|
-|  2021    |  |JCAI|    Audio2head    |  [Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion](https://www.ijcai.org/proceedings/2021/0152.pdf)| N/A|
+|  2021    |JCAI|    Audio2head    |  [Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion](https://www.ijcai.org/proceedings/2021/0152.pdf)| N/A|
 |   2021   |  ACM   TOG  |  Lu et al.   |  [Live speech portraits: real-time photorealistic talking-head animation](https://dl.acm.org/doi/abs/10.1145/3478513.3480484)|  N/A|
 |   2021   |   ICCV  |   FACIAL     |  [FACIAL: Synthesizing Dynamic Talking Face With Implicit Attribute Learning](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_FACIAL_Synthesizing_Dynamic_Talking_Face_With_Implicit_Attribute_Learning_ICCV_2021_paper.html)|  N/A|
-|  2021  |  ICCV  |  AD-NeRF  |   [AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis](https://openaccess.thecvf.com/content/ICCV2021/html/Guo_AD-NeRF_Audio_Driven_Neural_Radiance_Fields_for_Talking_Head_Synthesis_ICCV_2021_paper.html)|
-[Code](https://github.com/YudongGuo/AD-NeRF)|
+|  2021  |  ICCV  |  AD-NeRF  |   [AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis](https://openaccess.thecvf.com/content/ICCV2021/html/Guo_AD-NeRF_Audio_Driven_Neural_Radiance_Fields_for_Talking_Head_Synthesis_ICCV_2021_paper.html)|[Code](https://github.com/YudongGuo/AD-NeRF)|
 |   2021   |  CVPR  |   MEAD     |  [Flow-Guided One-Shot Talking Face Generation With a High-Resolution Audio-Visual Dataset](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Flow-Guided_One-Shot_Talking_Face_Generation_With_a_High-Resolution_Audio-Visual_Dataset_CVPR_2021_paper.html)| [Code](https://github.com/MRzzm/HDTF)
-|   2021|   arXiv preprint|  Si et al.|  [Speech2Video: Cross-Modal Distillation for Speech to Video Generation](https://arxiv.org/abs/2107.04806)|
-N/A   |
+|   2021|   arXiv preprint|  Si et al.|  [Speech2Video: Cross-Modal Distillation for Speech to Video Generation](https://arxiv.org/abs/2107.04806)|N/A |
 |   2021|   arXiv preprint|  Chen et al. |  [Talking Head Generation with Audio and Speech Related Facial Action Units](https://arxiv.org/abs/2110.09951)| N/A|
 |  2021  |  CVPR  |  PC-AVS  |  [Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Pose-Controllable_Talking_Face_Generation_by_Implicitly_Modularized_Audio-Visual_Representation_CVPR_2021_paper.html)| [Code](https://hangznju-cuhk.github.io/projects/PC-AVS)|
 |  2022|   CVPR   |  GC-VAT   | [Expressive Talking Head Generation With Granular Audio-Visual Control](https://openaccess.thecvf.com/content/CVPR2022/html/Liang_Expressive_Talking_Head_Generation_With_Granular_Audio-Visual_Control_CVPR_2022_paper.html)|   N/A|
 |  2022  |  AAAI   |   Wang et al.    |  [One-Shot Talking Face Generation from Single-Speaker Audio-Visual Correlation Learning](https://ojs.aaai.org/index.php/AAAI/article/view/20154) |    N/A|
 |  2022  |  ACM  SIGGRAPH|  EAMM  |   [EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model](https://dl.acm.org/doi/abs/10.1145/3528233.3530745) |  N/A|
-| 2022   |  arXiv preprint  |  SPACE | [SPACE: Speech-driven Portrait Animation with Controllable Expression](https://arxiv.org/abs/2211.09809)|
- N/A|
+| 2022   |  arXiv preprint  |  SPACE | [SPACE: Speech-driven Portrait Animation with Controllable Expression](https://arxiv.org/abs/2211.09809)|N/A|
  |  2022 |  arXiv preprint |   DFA-NERF |  [DFA-NeRF: Personalized Talking Head Generation via Disentangled Face Attributes Neural Rendering](https://arxiv.org/abs/2201.00791)|   N/A|
  |    2022 |  arXiv preprint |  Yu et al.   |  [Talking Head Generation with Probabilistic Audio-to-Visual Diffusion Priors](https://arxiv.org/abs/2212.04248)|  N/A|  
  |   2022 |  ACCESS|  Bigioi et al.  |  [Pose-Aware Speech Driven Facial Landmark Animation Pipeline for Automated Dubbing](https://ieeexplore.ieee.org/abstract/document/9994681) |  N/A|
