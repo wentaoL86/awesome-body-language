@@ -206,15 +206,6 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 |   2023 |  CVPR  |   DiffTalk  |  [DiffTalk: Crafting Diffusion Models for Generalized Audio-Driven Portraits Animation](https://openaccess.thecvf.com/content/CVPR2023/html/Shen_DiffTalk_Crafting_Diffusion_Models_for_Generalized_Audio-Driven_Portraits_Animation_CVPR_2023_paper.html)|  [Code](https://sstzal.github.io/DiffTalk/)|
 |   2023 |  CoRR  |       |   [Multimodal-driven Talking Face Generation via a Unified Diffusion-based Generator](https://zst1406217.github.io/home_page_files/Multimodal-driven%20Talking%20Face%20Generation.pdf)|  N/A|
 
-<<<<<<< HEAD
-
-
-
-
-
-
-
-=======
 #### Challenges
 
 | Year |     Venue      |   Acronym   | Paper Title                                                  | Code/Project                                                 |
