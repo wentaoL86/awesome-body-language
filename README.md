@@ -227,7 +227,7 @@ If you find our survey and repository useful for your research project, please c
 @article{liu2023blsurvey,
   title={A Survey on Deep Multi-modal Learning for Body Language Recognition and Generation},
   author={Liu, Li and Lufei, Gao  and Wentao, Lei and Fengji, Ma and Xiaotian, Lin and Jinting, Wang },
-  journal={arXiv:xxxx},
+  journal={arXiv:2308.08849},
   year={2023}
 }
 ```
