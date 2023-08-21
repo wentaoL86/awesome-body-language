@@ -238,7 +238,4 @@ avrillliu@hkust-gz.edu.cn
 ```
 wentaolei@hkust-gz.edu.cn
 ```
-## Related Repo of Our Group
-
-Awesome-Segment-Anything [Repo](https://github.com/liliu-avril/Awesome-Segment-Anything) by Chunhui Zhang.
 
