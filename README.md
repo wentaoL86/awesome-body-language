@@ -210,10 +210,10 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 | Year |     Task       |   Language     |  Name     | Link                                                 |
 | :--: | :------------: | :---------:   |:---------: | ------------------------------------------------------------ |
 | 2022 |     Sign Language Recognition, Translation & Production     |  English |SLRTP   |  | [link](https://slrtp-2022.github.io/)     |
-| 2012 |      Sign Language Recognition      |        English                        |  Google - Isolated Sign Language Recognition |   [link](https://www.kaggle.com/competitions/asl-signs)                                                      |
-| 2015 |     ICASSP     |    |AV-ASR    |                           | N/A                                                          |
-| 2019 | arXiv preprint |     |LSVSR    | | N/A                                                          |
-| 2017 |    NeurIPS     |     |TTUR     |  | [code](https://github.com/bioinf-jku/TTUR)                   |
+| 2023 |      Sign Language Recognition      |        English                        |  Google - Isolated Sign Language Recognition |   [link](https://www.kaggle.com/competitions/asl-signs)                                                      |
+| 2018 |     Lip Reading Recognition     | Japanese |  SSSD    |              [link](https://www.saitoh-lab.com/SSSD/index_en.html)                                |
+| 2022 |Talking Head Generation |  English   | ViCo2022   | | [link](https://vico.solutions/challenge/2022)                                                     |
+| 2024 |    Talking Head Generation     | English    |  ViCo2023     |  | [link](https://vico.solutions/challenge/2023)                    |
 | 2021 |      ICML      |     |CLIP     |  | [code](https://github.com/OpenAI/CLIP)                       |
 | 2021 |      ICML      |    |DALL-E    |  | [code](https://github.com/openai/DALL-E)                     |
 | 2020 | arXiv preprint |    |  Chen et al. | | [code](https://github.com/lelechen63/talking-head-generation-survey) |
