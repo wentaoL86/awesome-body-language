@@ -210,7 +210,7 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 | Year |     Task       |   Language     |  Name     | Link                                                 |
 | :--: | :------------: | :---------:   |:---------: | ------------------------------------------------------------ |
 | 2021 |      Sign Language Recognition      |  English   | ChaLearn Looking at People     |   [link](https://chalearnlap.cvc.uab.cat/challenge/43/description/)                       |
-| 2022 |     Sign Language Recognition, Translation & Production     |  English |SLRTP   |  | [link](https://slrtp-2022.github.io/)     |
+| 2022 |     Sign Language Recognition, Translation & Production     |  English |SLRTP   | [link](https://slrtp-2022.github.io/)     |
 | 2023 |      Sign Language Recognition      |        English                        |  Google - Isolated Sign Language Recognition |   [link](https://www.kaggle.com/competitions/asl-signs)                                                      |
 | 2023 |      Sign Language Recognition      | Multiple |WMT-SLT 23   |   [link](https://www.wmt-slt.com/)                     |
 | 2018 |     Lip Reading Recognition     | Japanese |  SSSD    |              [link](https://www.saitoh-lab.com/SSSD/index_en.html)                                |
