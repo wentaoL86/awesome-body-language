@@ -208,7 +208,7 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 #### Challenges
 
 | Year |     Task      |   Language  |  Name   |     | Link                                                 |
-| :--: | :------------: |    |:---------: | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| :--: | :------------: | :---------:   |:---------: | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2022 |     Sign Language Recognition, Translation & Production     |  English |SLRTP   |  | [link](https://slrtp-2022.github.io/)     |
 | 2012 |      Sign Language Recognition      |        English                        |  Google - Isolated Sign Language Recognition |   [link](https://www.kaggle.com/competitions/asl-signs)                                                      |
 | 2015 |     ICASSP     |    |AV-ASR    |                           | N/A                                                          |
