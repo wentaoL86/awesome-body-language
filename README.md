@@ -207,16 +207,16 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 
 #### Challenges
 
-| Year |     Venue      |   Acronym   | Paper Title                                                  | Code/Project                                                 |
-| :--: | :------------: | :---------: | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2021 |     ACM MM     |   ADC-SSL   | [Cross-modal self-supervised learning for lip reading: When contrastive learning meets adversarial training](https://dl.acm.org/doi/abs/10.1145/3474085.3475415) | N/A                                                          |
-| 2012 |      RAM       | Mori et al. | [The uncanny valley [from the field]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6213238) | N/A                                                          |
-| 2015 |     ICASSP     |   AV-ASR    | [Deep Multimodal Learning for Audio-Visual Speech Recognition](https://arxiv.org/pdf/1501.05396.pdf) | N/A                                                          |
-| 2019 | arXiv preprint |    LSVSR    | [Large-scale visual speech recognition](https://arxiv.org/pdf/1807.05162.pdf) | N/A                                                          |
-| 2017 |    NeurIPS     |    TTUR     | [GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium](https://proceedings.neurips.cc/paper_files/paper/2017/file/8a1d694707eb0fefe65871369074926d-Paper.pdf) | [code](https://github.com/bioinf-jku/TTUR)                   |
-| 2021 |      ICML      |    CLIP     | [Learning transferable visual models from natural language supervision](https://arxiv.org/pdf/2103.00020.pdf) | [code](https://github.com/OpenAI/CLIP)                       |
-| 2021 |      ICML      |   DALL-E    | [Zero-shot text-to-image generation](https://arxiv.org/pdf/2102.12092.pdf) | [code](https://github.com/openai/DALL-E)                     |
-| 2020 | arXiv preprint | Chen et al. | [What comprises a good talking-head video generation?: A Survey and Benchmark]() | [code](https://github.com/lelechen63/talking-head-generation-survey) |
+| Year |     Task      |   Language  |  Name   |     | Link                                                 |
+| :--: | :------------: |    |:---------: | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2022 |     Sign Language Recognition, Translation & Production     |  English |SLRTP   |  | [link](https://slrtp-2022.github.io/)     |
+| 2012 |      Sign Language Recognition      |        English                        |  Google - Isolated Sign Language Recognition |   [link](https://www.kaggle.com/competitions/asl-signs)                                                      |
+| 2015 |     ICASSP     |    |AV-ASR    |                           | N/A                                                          |
+| 2019 | arXiv preprint |     |LSVSR    | | N/A                                                          |
+| 2017 |    NeurIPS     |     |TTUR     |  | [code](https://github.com/bioinf-jku/TTUR)                   |
+| 2021 |      ICML      |     |CLIP     |  | [code](https://github.com/OpenAI/CLIP)                       |
+| 2021 |      ICML      |    |DALL-E    |  | [code](https://github.com/openai/DALL-E)                     |
+| 2020 | arXiv preprint |    |  Chen et al. | | [code](https://github.com/lelechen63/talking-head-generation-survey) |
 
 
 ## Acknowledgement
