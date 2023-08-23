@@ -212,11 +212,13 @@ In this survey, we present the first detailed survey on Multi-modal Body Languag
 | 2022 |     Sign Language Recognition, Translation & Production     |  English |SLRTP   |  | [link](https://slrtp-2022.github.io/)     |
 | 2023 |      Sign Language Recognition      |        English                        |  Google - Isolated Sign Language Recognition |   [link](https://www.kaggle.com/competitions/asl-signs)                                                      |
 | 2018 |     Lip Reading Recognition     | Japanese |  SSSD    |              [link](https://www.saitoh-lab.com/SSSD/index_en.html)                                |
-| 2022 |Talking Head Generation |  English   | ViCo2022   | | [link](https://vico.solutions/challenge/2022)                                                     |
-| 2024 |    Talking Head Generation     | English    |  ViCo2023     |  | [link](https://vico.solutions/challenge/2023)                    |
-| 2021 |      ICML      |     |CLIP     |  | [code](https://github.com/OpenAI/CLIP)                       |
-| 2021 |      ICML      |    |DALL-E    |  | [code](https://github.com/openai/DALL-E)                     |
-| 2020 | arXiv preprint |    |  Chen et al. | | [code](https://github.com/lelechen63/talking-head-generation-survey) |
+| 2022 |Talking Head Generation |  English   | ViCo2022   |  [link](https://vico.solutions/challenge/2022)                                                     |
+| 2023 |    Talking Head Generation     | English    |  ViCo2023     |   [link](https://vico.solutions/challenge/2023)                    |
+| 2021 |      Sign Language Recognition      |  English   | ChaLearn Looking at People     |   [link](https://chalearnlap.cvc.uab.cat/challenge/43/description/)                       |
+| 2023 |      Sign Language Recognition      | Multiple |WMT-SLT 23   |   [link](https://www.wmt-slt.com/)                     |
+| 2020 | Co-speech  Generation | English |  GENEA Challenge 2020 | | [link](https://genea-workshop.github.io/2020/#gesture-generation-challenge) |
+| 2022 | Co-speech  Generation | English |  GENEA Challenge 2022| | [link](https://genea-workshop.github.io/2022/#gesture-generation-challenge) |
+| 2023 | Co-speech  Generation | English |  GENEA Challenge 2023 | | [link](https://genea-workshop.github.io/2023/#gesture-generation-challenge) |
 
 
 ## Acknowledgement
